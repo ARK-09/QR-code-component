@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Source Code](https://github.com/ARK-09/QR-code-component)
-- Live Site URL: [Demo](https://qr-code-component-roan-delta.vercel.app/)
+- Live Site URL: [Demo](https://qr-code-component-ivory-mu.vercel.app/)
 
 ## My process
 
